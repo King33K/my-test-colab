@@ -1,0 +1,10 @@
+1. ls – lists files and directories
+2. cd – changes the current directory
+3. pwd – prints the current working directory
+4. mkdir – creates a new directory
+5. rm – removes files or directories
+6. cp – copies files or directories
+7. mv – moves or renames files or directories
+8. cat – displays file contents
+9. grep – searches text patterns in files
+10. chmod – changes file permissions
